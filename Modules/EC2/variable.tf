@@ -4,7 +4,7 @@ variable "instance_id" {
 }
 
 variable "vpc-id" {
-  default = "vpc-49353732"
+  default = ""
 }
 
 variable "subnet-id" {
